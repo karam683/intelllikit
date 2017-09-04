@@ -1,0 +1,4 @@
+com\hcl\cloud\poc\odata\service\IntelliKitFunctionImport.class
+com\hcl\cloud\poc\odata\service\IntelliKitServiceFactory.class
+com\hcl\cloud\poc\odata\service\JpaEntityManagerFactory.class
+com\hcl\cloud\poc\odata\service\IntelliKitFunctionImportExtension.class

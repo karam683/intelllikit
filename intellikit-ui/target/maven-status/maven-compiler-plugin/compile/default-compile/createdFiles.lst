@@ -1,0 +1,4 @@
+com\sap\cloudlabs\connectivity\proxy\ProxyServlet.class
+com\hcl\cloud\poc\odata\service\JpaEntityManagerFactory.class
+com\hcl\cloud\poc\odata\service\IntelliKitServiceFactory.class
+com\sap\cloudlabs\connectivity\proxy\SecurityHandler.class
